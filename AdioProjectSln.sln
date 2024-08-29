@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdioProject", "AdioProject\AdioProject.csproj", "{499EBC0E-9C2E-49B5-AD4B-90C4D767ED4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{499EBC0E-9C2E-49B5-AD4B-90C4D767ED4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499EBC0E-9C2E-49B5-AD4B-90C4D767ED4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499EBC0E-9C2E-49B5-AD4B-90C4D767ED4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499EBC0E-9C2E-49B5-AD4B-90C4D767ED4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8966C9B-A890-4497-8E25-8ADD37FE0653}
+	EndGlobalSection
+EndGlobal
